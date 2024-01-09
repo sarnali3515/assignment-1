@@ -278,3 +278,50 @@ body {
     width: 360px;
     height: 380px;
 }
+
+/* section 7 */
+.subscribe {
+    text-align: center;
+    margin: 50px 100px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    padding: 80px;
+}
+
+.sub-letter {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.sub-para {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.gmail {
+    border: none;
+    padding: 15px 25px;
+    border-radius: 50px 0px 0px 50px;
+    margin-right: 0;
+    color: rgba(7, 2, 17, 0.30);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.sub-btn {
+    border: none;
+    padding: 15px 25px;
+    border-radius: 0px 50px 50px 0px;
+    background-color: #F00;
+    margin-left: -5px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+}
