@@ -311,6 +311,10 @@ body {
     height: 380px;
 }
 
+.hover:hover {
+    filter: brightness(40%);
+}
+
 /* section 7 */
 .subscribe {
     text-align: center;
