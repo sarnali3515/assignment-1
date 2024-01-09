@@ -349,6 +349,16 @@ footer {
 
 .footer-contact {
     display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.footer-contact-div {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    /* line-height: 40px; */
 }
 
 .footer-contact img {
@@ -368,12 +378,4 @@ footer {
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
-}
-
-.footer-contact-div {
-    color: #FFF;
-    font-family: Inter;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 40px;
 }
