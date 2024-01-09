@@ -211,3 +211,70 @@ body {
     font-weight: 700;
     margin-bottom: 10px;
 }
+
+/* section 5 */
+
+
+.holiday {
+    text-align: center;
+
+    padding: 0 15%;
+    margin-top: 80px;
+}
+
+.holiday-func {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.holiday-sale {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.holiday-spn {
+    color: #F00;
+}
+
+.holiday-para {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    margin-top: 20px;
+}
+
+/* section 6 */
+
+.section-six {
+    margin: 50px 100px;
+}
+
+.best-gift {
+    padding-right: 20%;
+}
+
+.best-gift-img {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.best-img-container {
+    /* display: block;
+    gap: 20px; */
+}
+
+.best-img-container img {
+    width: 360px;
+    height: 380px;
+}
