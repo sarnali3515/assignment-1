@@ -293,6 +293,7 @@ body {
     font-family: Merriweather;
     font-size: 48px;
     font-weight: 900;
+    margin-bottom: 0;
 }
 
 .sub-para {
@@ -301,6 +302,7 @@ body {
     font-size: 20px;
     font-weight: 400;
     line-height: 32px;
+    margin-top: 20px;
 }
 
 .gmail {
@@ -324,4 +326,46 @@ body {
     font-family: Inter;
     font-size: 20px;
     font-weight: 600;
+}
+
+footer {
+    background: #070211;
+    margin: 0;
+    padding: 100px;
+}
+
+.footer-dis {
+    display: flex;
+    gap: 40%;
+}
+
+.footer-para {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.footer-contact {
+    display: flex;
+}
+
+.footer-contact img {
+    width: 20px;
+    height: 20px;
+}
+
+.footer-icon {
+    text-align: center;
+    padding: 30px 0;
+}
+
+.footer-last {
+    display: flex;
+    gap: 50%;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
 }
