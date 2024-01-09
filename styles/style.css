@@ -255,6 +255,7 @@ body {
 
 .holiday-dada {
     position: relative;
+
 }
 
 .holiday-2 {
@@ -264,6 +265,7 @@ body {
     display: flex;
     justify-content: space-between;
     margin: 50px 100px;
+    border-radius: 16px 0px 16px 16px;
 
 }
 
