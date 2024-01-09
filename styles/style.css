@@ -77,7 +77,7 @@ body {
 /* section 2 */
 .welcome {
 
-    background-image: url(/resources/Vectorrr.png);
+    background-image: url(../resources/Vectorrr.png);
     background-repeat: no-repeat;
     margin: 50px 100px;
     background-size: 100%;
@@ -368,4 +368,12 @@ footer {
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
+}
+
+.footer-contact-div {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 40px;
 }
