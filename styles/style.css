@@ -253,6 +253,38 @@ body {
     margin-top: 20px;
 }
 
+.holiday-dada {
+    position: relative;
+}
+
+.holiday-2 {
+    background-image: url(../resources/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 100px;
+
+}
+
+#img1 {
+    height: 300px;
+    padding-bottom: 229px;
+
+}
+
+#img2 {
+    width: 600px;
+}
+
+#img-round {
+    position: absolute;
+    right: 300px;
+    bottom: 250px;
+    width: 250px;
+}
+
+
 /* section 6 */
 
 .section-six {
